@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# The artist Ron Cobb died. He designed the DeLorean machine from "Back to the Future".
 
-You can use the [editor on GitHub](https://github.com/inexinper/mediaperson/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In Sydney, Ron Cobb, the art director who worked on films Alien and Back to the Future, died. His wife, Robin Love, informed about it. Cobb died on September 21, the day he turned 83.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cobb was born in 1937 in Los Angeles. His career began at the Disney Company when he was 17 years old. The first film, to which he put his hand, was "Dark Star" - the directorial debut of John Carpenter.
 
-### Markdown
+![Branching](roncob2.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+During his career, Cobb came up with the design of a time machine DeLorean DMC-12 from "Back to the Future", the ship "Nostromo" from "Alien" and the scenery "Conan the Barbarian". Among his other works are creatures from "Star Wars" and a colony of earthlings from "Aliens".
 
-```markdown
-Syntax highlighted code block
+In the early 1980s, Cobb met Stephen Spielberg, who offered him to shoot the fantasy Night Sky. Cobb refused, but played the doctor's cameo in a future film directed by Alien.
 
-# Header 1
-## Header 2
-### Header 3
+Ron Cobb, the artist, cartoonist, film designer and writer lives in Sydney, Australia with his Australian wife Robin Love and teenage son, Nicky, but you can sometimes find him in Los Angeles, California (he was born and raised there).
 
-- Bulleted
-- List
+![Branching](roncob1.jpg)
 
-1. Numbered
-2. List
+His cartoons from the sixties and seventies are collected in several out of print books: RCD-25 (1967) and Mah Fellow Americans (1968) were published by Sawyer Press. Raw Sewage and My Fellow Americans (1971) were published by Price Stern and Sloan.
 
-**Bold** and _Italic_ and `Code` text
+After he moved to Sydney in 1972, with the independent publishers Wild and Woolley he published a "best of" the earlier cartoon books titled The Cobb Book in 1974. This was followed in 1976 by Cobb Again.
 
-[Link](url) and ![Image](src)
-```
+A large format collection in full color was published in 1981 by titled Colorvision. This book included much of his design work for the films Star Wars, Alien and Conan the Barbarian. Conan was the first feature for which he received the credit Production Designer.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Branching](roncob3.jpg) ![Branching](roncob4.jpg)
 
-### Jekyll Themes
+In the last two decades Ron Cobb has contributed production design to the films: The Last Starfighter, the aforementioned Conan the Barbarian, and Leviathan.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inexinper/mediaperson/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+He also contributed conceptual designs to other feature films, including Dark Star, Alien, Close Encounters of the Third Kind, Real Genius, Back to the Future, Aliens, The Abyss, Total Recall, True Lies, The 6th Day, Cats and Dogs, Firefly and Southland Tales.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ron directed the Australian comedy Garbo and contributed the original story for Night Skies, an earlier, darker version of ET. He also co-wrote with Robin Love, one of the new Twilight Zone episodes.
